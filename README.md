@@ -1,6 +1,3 @@
-# README
-My Developer Portfolio
-
 <!--
 GitHub profile repository: Pavanrr25
 Upload this README.md and the assets/ folder to the public repository named exactly Pavanrr25.
